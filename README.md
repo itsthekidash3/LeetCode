@@ -7,6 +7,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/itsthekidash3/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/itsthekidash3/LeetCode/tree/master/0217-contains-duplicate) |
@@ -18,6 +19,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/itsthekidash3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsthekidash3/LeetCode/tree/master/0242-valid-anagram) |
@@ -104,6 +106,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Combinatorics
 |  |
