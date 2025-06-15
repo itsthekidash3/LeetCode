@@ -95,6 +95,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Math
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/itsthekidash3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Tree
@@ -140,6 +141,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0135-candy](https://github.com/itsthekidash3/LeetCode/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
