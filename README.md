@@ -98,6 +98,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/itsthekidash3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +132,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
