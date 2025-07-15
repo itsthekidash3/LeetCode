@@ -7,6 +7,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/itsthekidash3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/itsthekidash3/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsthekidash3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/itsthekidash3/LeetCode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -151,6 +153,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsthekidash3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/itsthekidash3/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/itsthekidash3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsthekidash3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
