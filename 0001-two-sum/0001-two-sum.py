@@ -1,13 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        sum2 =  {}
 
-        for i, num in enumerate(nums):
-            diff = target - num
-            if diff in sum2:
-                return (sum2[diff],i)
-            sum2[num] = i #storing each num in dict with index value
+        hasht = {}
 
+        for i,n in enumerate(nums):
+            diff = target - n
+            if diff in hasht:
+                return (i, hasht[diff]) #storing num and index as pair not index and num : 5:0, 0:5
+            hasht[n] = i
 
-        
         
