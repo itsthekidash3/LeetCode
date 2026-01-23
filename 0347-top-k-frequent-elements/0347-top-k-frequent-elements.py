@@ -1,16 +1,46 @@
 from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-       bucket = [[] for _ in range(len(nums)+1)]  #creating a bucket
-       count = Counter(nums) #count ={} for n in nums:count[n] = 1+count.get(1,0)
-       for num, freq in count.items():
-        bucket[freq].append(num) #adding values to bucket by taking key and value pair
-       res = []
-       
-       for i in range(len(nums), 0 , -1):
-        for num in bucket[i]:
-            res.append(num)
-            if len(res) == k:
-                return res 
+        #most repeated element. that is in top k 
+        #frequency as key with num as value
+
+        # worst case : every single value is distinct
+        # heapify o(log n)
+        # o(n)
+        # bucket size is input array size
+        # scan from last coz, most frequent element
+
+        bucket = [[] for _ in range(len(nums)+1)] 
+
+        count = Counter(nums)
+        for num, freq in count.items():
+            bucket[freq].append(num)
+        res = []
+
+        for i in range(len(nums),0, -1):
+            for n in bucket[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
+
+
+                    #the psuedocode is where lose !. I need to understand that better !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
