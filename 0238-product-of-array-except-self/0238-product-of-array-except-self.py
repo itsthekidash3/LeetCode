@@ -7,12 +7,12 @@ class Solution:
         left_product = 1
         for i in range(n):
             result[i] = left_product
-            left_product *= nums[i]  #update the left product
+            left_product *= nums[i]
         
         # Second pass: calculate the products of all elements to the right of each element
         right_product = 1
         for i in range(n - 1, -1, -1):
-            result[i] *= right_product
-            right_product *= nums[i]  #update the right product
+            result[i] *= right_product #pre already calculated . need to multiply to the post of the number
+            right_product *= nums[i]
         
         return result
