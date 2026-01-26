@@ -8,7 +8,7 @@ class Solution:
 
             if total == target:
                 return [left + 1, right + 1]
-            elif total > target:
+            elif total > target: # number greater, pointer at right has big value
                 right -= 1
             else:
                 left += 1
