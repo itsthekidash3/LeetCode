@@ -3,20 +3,20 @@ class Solution:
         arr = []
         nums.sort()
 
-        for i,a in enumerate(nums):
-            if  i > 0 and a == nums[i-1]: 
+        for tar,val in enumerate(nums):
+            if  tar > 0 and val == nums[tar-1]: 
                 continue # this is not the first value in input array and it is equal to the previous number
-            l,r = i+1, len(nums) - 1 # two pointers
-            while l < r:
-                threeSum = a + nums[l] + nums[r]
-                if threeSum > 0: #value greater that expected, decrease the number i.e right pointer
-                    r -= 1
-                elif threeSum < 0:#value less that expected, decrease the number i.e right pointer
-                    l += 1
+            left,right = tar+1, len(nums) - 1 # two pointers
+            while left < right:
+                target = val + nums[left] + nums[right]
+                if target > 0: #value greater that expected, decrease the number i.e right pointer
+                    right -= 1
+                elif target < 0:#value less that expected, decrease the number i.e right pointer
+                    left += 1
                 else:
-                    arr.append([a,nums[l], nums[r]])
-                    l += 1 #update any one pointer after appending to arr
+                    arr.append([val,nums[left], nums[right]])
+                    left += 1 #update any one pointer after appending to arr
                             #the conditions will handle the other pointer
-                    while nums[l] == nums[l-1] and l<r: #we dont want the same value
-                        l += 1
+                    while nums[left] == nums[left-1] and left<right: #we dont want the same value
+                        left += 1
         return arr
