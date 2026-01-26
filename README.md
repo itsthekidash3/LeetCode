@@ -226,4 +226,8 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
