@@ -1,13 +1,25 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        l, r = 0 , len(height) - 1
-        area = 0
-        while l < r:
-            dist = r - l
-            width = min(height[l], height[r])
-            area = max( area, dist * width)
-            if height[l] < height[r]:
-                l+= 1
+        # pointer = left and right
+        #value at pointer and distance between them
+        #if area is large, update the max area
+        #if val at left is small, update left
+        #if val at right is small update right
+
+        max_area = 0
+        left , right = 0, len(height)-1
+
+        while left < right :
+
+            max_area = max(max_area, (min(height[right], height[left]) * (right - left)))
+
+            if height[right] > height[left]:
+                left += 1
             else:
-                r-= 1
-        return area
+                right -= 1
+        
+        return max_area
+
+
+
+        
