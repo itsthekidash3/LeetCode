@@ -14,12 +14,3 @@ class Solution:
                 count = max(count, length)
         
         return count
-
-
-        return len(arr)
-
-
-
-        
-        
-        
