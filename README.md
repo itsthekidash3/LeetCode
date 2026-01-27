@@ -75,6 +75,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsthekidash3/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
@@ -232,4 +233,12 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsthekidash3/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsthekidash3/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
