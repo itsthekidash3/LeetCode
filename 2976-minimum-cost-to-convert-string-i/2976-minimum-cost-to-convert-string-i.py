@@ -21,9 +21,10 @@ class Solution:
 
          # Build adjacency list:
         # adj[u] = list of (weight, v)
+        N = len(original)
         adj = defaultdict(list)
-        for o, c, w in zip(original, changed, cost):
-            adj[o].append((w, c))
+        for i in range(N):
+            adj[original[i]].append((cost[i], changed[i]))
 
         @cache
         def dijkstra(start: str, end: str) -> int:
