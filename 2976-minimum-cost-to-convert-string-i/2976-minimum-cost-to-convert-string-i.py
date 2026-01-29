@@ -1,41 +1,32 @@
-from collections import defaultdict
-from functools import cache
-import heapq
-from math import inf
-
 class Solution:
-    def minimumCost(self, source, target, original, changed, cost):
+    def minimumCost(self, source: str, target: str, original: list[str], changed: list[str], cost: list[int]) -> int:
+        inf = float('inf')
+        dist = [[inf] * 26 for _ in range(26)]
 
-        adj = defaultdict(list)
-        for o, c, w in zip(original, changed, cost):
-            adj[o].append((w, c))
+        for i in range(26):
+            dist[i][i] = 0
 
-        @cache
-        def dijkstra(start, end):
-            pq = [(0, start)]
-            dist = defaultdict(lambda: inf)
-            dist[start] = 0
+        for o, c, z in zip(original, changed, cost):
+            u = ord(o) - 97
+            v = ord(c) - 97
+            dist[u][v] = min(dist[u][v], z)
 
-            while pq:
-                cur_cost, node = heapq.heappop(pq)
-                if cur_cost > dist[node]:
+        for k in range(26):
+            for i in range(26):
+                if dist[i][k] == inf:
                     continue
+                for j in range(26):
+                    if dist[k][j] != inf:
+                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j])
 
-                for w, nxt in adj[node]:
-                    new_cost = cur_cost + w
-                    if new_cost < dist[nxt]:
-                        dist[nxt] = new_cost
-                        heapq.heappush(pq, (new_cost, nxt))
-
-            return dist[end] if dist[end] != inf else -1
-
-        ans = 0
-        for s, t in zip(source, target):
-            if s == t:
+        total_cost = 0
+        for s_char, t_char in zip(source, target):
+            u = ord(s_char) - 97
+            v = ord(t_char) - 97
+            if u == v:
                 continue
-            c = dijkstra(s, t)
-            if c == -1:
+            if dist[u][v] == inf:
                 return -1
-            ans += c
+            total_cost += dist[u][v]
 
-        return ans
+        return total_cost
