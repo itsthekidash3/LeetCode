@@ -22,7 +22,7 @@ class Solution:
         dp = [[inf] * n for _ in range(m)]
         dp[0][0] = 0  # starting cell has zero cost
 
-        # Standard grid DP relaxation (right and down moves only)
+        #  (right and down moves only)
         def update():
             for i in range(m):
                 for j in range(n):
@@ -40,7 +40,7 @@ class Solution:
         # Teleportation allows all cells with value <= current value
         # to share the minimum dp among them (zero-cost transitions)
         keys = sorted(d, reverse=True)  # process higher values first
-        for _ in range(k):
+        for _ in range(k): #no of teleportation allowed
             dist = inf
             for key in keys:
                 # Find the minimum dp among cells with this value
@@ -50,7 +50,7 @@ class Solution:
 
                 # Apply teleport: set all these cells to the same min cost
                 for i, j in d[key]:
-                    dp[i][j] = dist
+                    dp[i][j] = dist # travel freely if you can reach i,j with min cost, then you can reach all the cells that used to share the same cost with i,j with this min cost.
 
             # After teleporting, re-run grid DP to propagate costs
             update()
