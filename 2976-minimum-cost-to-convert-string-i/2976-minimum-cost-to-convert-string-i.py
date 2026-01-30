@@ -27,7 +27,7 @@ class Solution:
             adj[original[i]].append((cost[i], changed[i]))
 
         @cache
-        def dijkstra(start: str, end: str) -> int:
+        def get_cost(start: str, end: str) -> int:
             """
             Returns minimum cost to convert character `start` to `end`
             using Dijkstra. Returns -1 if impossible.
@@ -37,37 +37,33 @@ class Solution:
             dist[start] = 0
 
             while pq:
-                cur_cost, node = heapq.heappop(pq)
+                cost, node = heapq.heappop(pq)
 
                 # Skip stale states
-                if cur_cost > dist[node]:
+                if cost > dist[node]:
                     continue
 
                 # Found cheapest path to end
                 if node == end:
-                    return cur_cost
+                    return cost
 
                 # Relax edges
-                for edge_cost, nxt in adj[node]:
-                    new_cost = cur_cost + edge_cost
-                    if new_cost < dist[nxt]:
-                        dist[nxt] = new_cost
-                        heapq.heappush(pq, (new_cost, nxt))
+                for next_cost, next_node in adj[node]: 
+                    if cost + next_cost < dist[next_node]: 
+                        dist[next_node] = cost + next_cost 
+                        heapq.heappush(pq, (dist[next_node], next_node))
 
             return -1  # end not reachable
 
         # Total cost to convert source -> target
-        total = 0
-        for s, t in zip(source, target):
-            if s == t:
-                continue
-            c = dijkstra(s, t)
-            if c == -1:
-                return -1
-            total += c
+        ans = 0 
+        for start, end in zip(source, target): 
+            if start == end: continue 
+            cost = get_cost(start, end) 
+            if cost == -1: return -1 
+            ans += cost 
 
-        return total
-
+        return ans
 
 
 
