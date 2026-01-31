@@ -19,6 +19,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0238-product-of-array-except-self](https://github.com/itsthekidash3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -221,6 +222,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsthekidash3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
