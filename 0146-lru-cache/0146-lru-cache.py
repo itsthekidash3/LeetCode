@@ -20,16 +20,6 @@ class LRUCache:
         self.prev.next = self.next
         self.next.prev = self.prev
         
-
-    def get(self, key: int) -> int:
-        # If key exists in cache, move it to the MRU (most recently used) position
-        if key in self.cache:
-            self.remove(self.cache[key])   # Remove node from its current position
-            self.insert(self.cache[key])   # Re-insert it at the MRU end
-            return self.cache[key].val
-        # If key not found, return -1
-        return -1
-
     def remove(self, node):
         """
         Removes a node from the doubly linked list.
@@ -49,6 +39,15 @@ class LRUCache:
         prev_node.next = next_node.prev = node  # Link the new node between prev_node and MRU end
         node.next = next_node
         node.prev = prev_node
+        
+    def get(self, key: int) -> int:
+        # If key exists in cache, move it to the MRU (most recently used) position
+        if key in self.cache:
+            self.remove(self.cache[key])   # Remove node from its current position
+            self.insert(self.cache[key])   # Re-insert it at the MRU end
+            return self.cache[key].val
+        # If key not found, return -1
+        return -1
 
     def put(self, key: int, value: int) -> None:
         """
