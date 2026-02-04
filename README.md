@@ -34,6 +34,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/itsthekidash3/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/itsthekidash3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -120,6 +121,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/itsthekidash3/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/itsthekidash3/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Graph
 |  |
