@@ -5,7 +5,7 @@ class Solution:
         result = 0   # longest valid window found so far
 
         for r in range(len(s)):
-            count[s[r]] = count.get(s[r], 0) + 1   # add right character to frequency map
+            count[s[r]] = count.get(s[r], 0) + 1   # add right character to frequency map if no entry return 0
         
             # if window size minus the most frequent character exceeds k,
             # we need more than k replacements to make the window uniform — shrink it
