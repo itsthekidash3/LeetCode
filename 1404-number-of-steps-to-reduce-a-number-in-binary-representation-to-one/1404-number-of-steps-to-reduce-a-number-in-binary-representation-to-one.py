@@ -1,3 +1,9 @@
+# ⚠️ WARNING: s can be up to 500 chars, meaning num can be up to 2^500
+# Python handles big integers natively so this works here,
+# but in C++ or Java this would overflow — you'd need the string approach instead
+
+
+
 class Solution:
     def numSteps(self, s: str) -> int:
 
@@ -13,3 +19,5 @@ class Solution:
                 num += 1        # adding 1 to an odd number makes it even, so next step will halve it
 
         return steps
+
+        
