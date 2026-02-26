@@ -1,32 +1,15 @@
 class Solution:
     def numSteps(self, s: str) -> int:
 
-        # bit manipulation
-        #if even divide by 2 -> right shift
-        # if odd add 1 - OR the number
-        # no of steps 
-        # the binary number is a string. 
-        # convert to a binarty number
-
-        # check with and 1, that gives 1 or zero
-
-        # if len(s) = 1 return the steps only if 1 else add one and return steps + 1
-
         steps = 0
-        num = int(s,2)
-        while num != 1 :
+        num = int(s, 2)  # convert binary string to actual integer (e.g. "11101" → 29)
+
+        while num != 1:  # keep going until we reduce down to 1
             steps += 1
-            if num & 1 == 0: #if its a number divisbile by 2
-                num //= 2
-            elif num & 1 == 1 : # if its odd
-                num += 1
-        
+
+            if num & 1 == 0:    # check last bit — if 0, number is even
+                num //= 2       # divide by 2 (same as right shift)
+            elif num & 1 == 1:  # if last bit is 1, number is odd
+                num += 1        # adding 1 to an odd number makes it even, so next step will halve it
+
         return steps
-
-            
-
-        
-
-
-
-        
