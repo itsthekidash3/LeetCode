@@ -68,6 +68,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsthekidash3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itsthekidash3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/itsthekidash3/LeetCode/tree/master/0125-valid-palindrome) |
@@ -243,6 +244,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
