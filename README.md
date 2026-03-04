@@ -35,6 +35,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/itsthekidash3/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -219,6 +220,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/itsthekidash3/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Combinatorics
 |  |
