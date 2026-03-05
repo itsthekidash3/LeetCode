@@ -67,6 +67,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0424-longest-repeating-character-replacement](https://github.com/itsthekidash3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/itsthekidash3/LeetCode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -85,6 +86,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0242-valid-anagram](https://github.com/itsthekidash3/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/itsthekidash3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itsthekidash3/LeetCode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/itsthekidash3/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -305,6 +307,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsthekidash3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -329,6 +332,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0146-lru-cache](https://github.com/itsthekidash3/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/itsthekidash3/LeetCode/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
