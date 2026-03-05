@@ -9,6 +9,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0001-two-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/itsthekidash3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/itsthekidash3/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
@@ -298,6 +299,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsthekidash3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
