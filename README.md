@@ -89,6 +89,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
