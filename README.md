@@ -7,6 +7,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsthekidash3/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/itsthekidash3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/itsthekidash3/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -122,6 +123,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsthekidash3/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
@@ -302,6 +304,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsthekidash3/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsthekidash3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
