@@ -262,6 +262,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,6 +323,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -357,6 +359,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
@@ -364,6 +367,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/itsthekidash3/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsthekidash3/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -416,4 +420,8 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
