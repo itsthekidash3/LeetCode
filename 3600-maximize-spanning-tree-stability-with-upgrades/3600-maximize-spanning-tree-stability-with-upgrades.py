@@ -30,7 +30,11 @@ class Solution:
                 return True
             return False  # Already connected (would create cycle)
         
-        weights = []  # Track all edge strengths in our spanning tree
+        # CLEVER INSIGHT: Split tracking into two separate lists!
+        # weights = mandatory edges (can't upgrade these)
+        # upgrade_weights = optional edges (we CAN upgrade these)
+        # This avoids the O(n·k) search problem!
+        weights = []  # Track mandatory edge strengths (fixed)
         used = 0      # Count edges added to spanning tree
         
         # Helper: attempt to add edge to spanning tree
@@ -48,30 +52,32 @@ class Solution:
             if m == 1:  # Mandatory edge
                 if not add(u, v, s):  # If it creates a cycle
                     return -1  # Impossible - mandatory edges form cycle
-                weights.append(s)
+                weights.append(s)  # Store mandatory edge strength
             else:
-                consider.append((u, v, s))  # Save optional edges
+                consider.append((u, v, s))  # Save optional edges for greedy selection
         
         # STEP 2: Greedily add strongest optional edges
+        # Why strongest? Gives us best "base" minimum before upgrades
         consider.sort(key=lambda x: -x[2])  # Sort by strength descending
         
-        upgrade_weights = []  # Track which edges we added (can be upgraded)
+        upgrade_weights = []  # Track optional edges we actually used
         
         for u, v, s in consider:
-            if add(u, v, s):
-                upgrade_weights.append(s)
+            if add(u, v, s):  # Only add if doesn't create cycle
+                upgrade_weights.append(s)  # These are upgrade candidates
         
         # STEP 3: Validate we have a spanning tree
         if used != n - 1:  # Spanning tree needs exactly n-1 edges
             return -1  # Graph is disconnected
         
-        # STEP 4: Upgrade the k weakest edges to maximize minimum
-        # (Upgrading weak edges raises the floor more than upgrading strong ones)
-        upgrade_weights.sort()  # Sort to find weakest
+        # STEP 4: Upgrade the k weakest OPTIONAL edges to maximize minimum
+        # KEY INSIGHT: Only optional edges can be upgraded (mandatory ones are fixed)
+        # Upgrade weakest first because that raises the "floor" (minimum) most effectively
+        upgrade_weights.sort()  # Sort to find weakest first
         
         for i in range(min(k, len(upgrade_weights))):
-            # Find and upgrade in weights array
-            upgrade_weights[i] *= 2
+            upgrade_weights[i] *= 2  # Double the k weakest optional edges
         
-        weights.extend(upgrade_weights)
-        return min(weights)  # Return minimum strength after upgrades
+        # STEP 5: Combine all edges and find minimum
+        weights.extend(upgrade_weights)  # Merge mandatory + upgraded optional
+        return min(weights)  # The minimum is our stability
