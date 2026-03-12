@@ -1,3 +1,4 @@
+# watched a youtube . took me 2 hrs to figure it out !!!
 class Solution:
     def maxStability(self, n: int, edges: List[List[int]], k: int) -> int:
         # PROBLEM: Build a spanning tree with n-1 edges from n nodes
