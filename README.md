@@ -47,6 +47,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/itsthekidash3/LeetCode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/itsthekidash3/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3637-trionic-array-i) |
@@ -136,6 +137,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0239-sliding-window-maximum](https://github.com/itsthekidash3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/itsthekidash3/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
@@ -194,6 +196,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/itsthekidash3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -261,6 +264,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
@@ -323,6 +327,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
