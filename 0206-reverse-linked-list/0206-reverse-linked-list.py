@@ -5,18 +5,36 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None # prev pointer is set to null
-        curr = head # initalize current to the first node to set it a the last
+        # Iterative Approach: O(n) time, O(1) space
+        # Use three pointers to reverse links in-place
+        
+        prev = None  # Will become the new tail (originally null)
+        curr = head  # Start at the head, will traverse the entire list
+        
         while curr:
-            # at the curr node
-            nxt = curr.next # temp variable
-            curr.next = prev # pointing to prev
-            # need to shift the node after iteration
-            prev = curr # shift it to current 
-            # curr = curr.next
-            # need a temp variable to store the next , coz we are breaking the pointer
-            curr = nxt # shift it to the next
+            nxt = curr.next          # Save next node before breaking the link
+            curr.next = prev         # Reverse the pointer to point backwards
+            prev = curr              # Move prev forward to current node
+            curr = nxt               # Move curr forward to next node
         
-        return prev
+        return prev  # prev is now the new head (last node visited)
 
-        
+
+    # Recursive Approach: O(n) time, O(n) space (call stack)
+    # Recursively reach the end, then reverse pointers on the way back up
+    
+    # def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    #     # Base cases: empty list or single node
+    #     if not head or not head.next:
+    #         return head
+    #     
+    #     # Recursively reverse the rest of the list
+    #     newHead = self.reverseList(head.next)
+    #     
+    #     # Reverse the link: make the next node point back to current
+    #     head.next.next = head
+    #     
+    #     # Set current node's next to None (will be updated by previous call or remain as tail)
+    #     head.next = None
+    #     
+    #     return newHead  # Pass the new head back up through all recursive calls
