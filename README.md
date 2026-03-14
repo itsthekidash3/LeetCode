@@ -94,6 +94,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/itsthekidash3/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -435,6 +436,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Backtracking
 |  |
 | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Minimum Spanning Tree
 |  |
