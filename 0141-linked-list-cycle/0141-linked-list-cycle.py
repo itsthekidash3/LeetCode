@@ -21,8 +21,8 @@ class Solution:
         # Key: Check "fast and fast.next" to avoid NoneType errors
         # We need fast.next to exist because we do fast.next.next
         while fast and fast.next:
-            fast = fast.next.next     # Move fast by 2
             slow = slow.next          # Move slow by 1
+            fast = fast.next.next     # Move fast by 2
         
             
             if fast == slow:          # Pointers met - cycle detected!
