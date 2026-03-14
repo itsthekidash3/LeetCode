@@ -24,7 +24,7 @@ class Solution:
             slow = slow.next          # Move slow by 1
             fast = fast.next.next     # Move fast by 2
             
-            if slow == fast:          # Pointers met - cycle detected!
+            if fast == slow:          # Pointers met - cycle detected!
                 return True
         
         # Fast reached the end - no cycle exists
