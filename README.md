@@ -383,6 +383,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itsthekidash3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/itsthekidash3/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
@@ -421,6 +422,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itsthekidash3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
