@@ -195,6 +195,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsthekidash3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/itsthekidash3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -359,6 +360,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0146-lru-cache](https://github.com/itsthekidash3/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/itsthekidash3/LeetCode/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -442,4 +444,8 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
