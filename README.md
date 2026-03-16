@@ -39,6 +39,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/itsthekidash3/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -124,6 +125,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/itsthekidash3/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -138,6 +140,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itsthekidash3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -196,6 +199,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsthekidash3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/itsthekidash3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -232,6 +236,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/itsthekidash3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/itsthekidash3/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -243,6 +248,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/itsthekidash3/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Combinatorics
 |  |
