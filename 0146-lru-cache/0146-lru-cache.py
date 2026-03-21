@@ -1,3 +1,9 @@
+# LRU Cache: Combine HashMap + Doubly Linked List
+# HashMap: O(1) lookup by key
+# Doubly Linked List: O(1) removal and insertion to track recency order
+# Left (LRU end) ← ... ← Right (MRU end)
+# Most recently used items are near right, least recently used near left
+
 # Node class for doubly linked list
 # Each node stores a key-value pair and pointers to previous and next nodes
 class Node:
@@ -12,56 +18,57 @@ class LRUCache:
 
     def __init__(self, capacity: int):
         self.cap = capacity  # Maximum capacity of the cache
-        self.cache = {}      # Dictionary to map keys to their corresponding Node
+        self.cache = {}      # HashMap: maps keys to their corresponding Node for O(1) lookup
 
-        # Dummy nodes to simplify edge insertions and deletions
-        self.prev = Node(0, 0)  # Dummy node representing the LRU end (least recently used)
-        self.next = Node(0, 0)  # Dummy node representing the MRU end (most recently used)
-        self.prev.next = self.next
-        self.next.prev = self.prev
+        # Dummy nodes to simplify edge case handling (no null checks needed)
+        self.left = Node(0, 0)   # Dummy head - LRU end (least recently used)
+        self.right = Node(0, 0)  # Dummy tail - MRU end (most recently used)
+        self.left.next = self.right
+        self.right.prev = self.left
         
     def remove(self, node):
         """
-        Removes a node from the doubly linked list.
-        This is used when a node is accessed (to update its position)
-        or when the LRU node is evicted.
+        Helper: Remove a node from the doubly linked list (O(1))
+        Used when accessing a node (to reposition) or evicting LRU node
         """
-        prev_node, next_node = node.prev, node.next
-        prev_node.next = next_node
-        next_node.prev = prev_node
+        prev, nxt = node.prev, node.next
+        prev.next = nxt
+        nxt.prev = prev
     
     def insert(self, node):
         """
-        Inserts a node at the MRU (most recently used) position, right before the dummy tail (self.next).
-        This signifies the node was recently accessed or added.
+        Helper: Insert node at MRU position (right before dummy tail) (O(1))
+        Signifies the node was just accessed or added - mark as most recently used
         """
-        prev_node, next_node = self.next.prev, self.next
-        prev_node.next = next_node.prev = node  # Link the new node between prev_node and MRU end
-        node.next = next_node
-        node.prev = prev_node
+        prev, nxt = self.right.prev, self.right
+        prev.next = nxt.prev = node  # Link the new node between prev and right
+        node.next = nxt
+        node.prev = prev
         
     def get(self, key: int) -> int:
-        # If key exists in cache, move it to the MRU (most recently used) position
+        """
+        Get value by key. If exists, move to MRU position (was just accessed)
+        Return -1 if key not found
+        """
         if key in self.cache:
-            self.remove(self.cache[key])   # Remove node from its current position
-            self.insert(self.cache[key])   # Re-insert it at the MRU end
+            self.remove(self.cache[key])   # Remove from current position
+            self.insert(self.cache[key])   # Re-insert at MRU end (mark as recently used)
             return self.cache[key].val
-        # If key not found, return -1
-        return -1
+        return -1  # Key not found
 
     def put(self, key: int, value: int) -> None:
         """
-        Add a new key-value pair to the cache.
-        If key already exists, update the value and move it to MRU position.
-        If capacity is exceeded, remove the LRU node.
+        Add/update key-value pair. Always move to MRU position
+        If capacity exceeded, evict LRU node (left.next)
         """
         if key in self.cache:
-            self.remove(self.cache[key])  # Remove old node if key exists
-        self.cache[key] = Node(key, value)  # Create new node
-        self.insert(self.cache[key])        # Insert it at MRU position
+            self.remove(self.cache[key])  # Remove old node if updating
+        
+        self.cache[key] = Node(key, value)  # Create new node in HashMap
+        self.insert(self.cache[key])        # Insert at MRU end
 
-        # If cache exceeds capacity, remove the LRU node (right after dummy head / self.prev)
+        # If over capacity, remove LRU node (right after dummy head)
         if len(self.cache) > self.cap:
-            lru = self.prev.next           # Node to remove (LRU)
-            self.remove(lru)
-            del self.cache[lru.key]       # Remove from dictionary
+            lru = self.left.next           # LRU node is right after left dummy
+            self.remove(lru)               # Remove from linked list
+            del self.cache[lru.key]        # Remove from HashMap
