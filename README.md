@@ -225,6 +225,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -233,6 +234,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -243,6 +245,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -451,6 +454,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
