@@ -246,6 +246,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0543-diameter-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -259,6 +260,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0543-diameter-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/itsthekidash3/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -271,6 +273,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -496,6 +499,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0543-diameter-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
