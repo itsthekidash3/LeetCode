@@ -4,36 +4,32 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # go level wise
-        # BFS algo
-        # use queue
-        # fifo
-
-        res = []
+        # Goal: Return level-order traversal (nodes grouped by depth/level)
+        # Approach: BFS using queue - process one level at a time
+        
+        res = []  # Result: list of lists, each inner list is one level
         q = collections.deque()
         q.append(root)
-
-        # run BFS , while queue is non empty
-
+        
+        # Process nodes level by level while queue is not empty
         while q:
-            qLen = len(q) # no of values in the queue currently
-            # going through one level at a time
-            level=[]
-            # loop through every value in the list
-            for i in range(qLen):
-                node = q.popleft()
-                if node: #checking if node is null Edge case
-                    level.append(node.val) # from node
-                    q.append(node.left) # append nodes left
-                    q.append(node.right) # append nodes right
+            qLen = len(q)  # Number of nodes at current level
+            level = []  # Store values for current level
             
+            # Process all nodes at current level
+            for i in range(qLen):
+                node = q.popleft()  # FIFO: get next node in level
+                
+                if node:  # Edge case: skip null nodes
+                    level.append(node.val)  # Add value to current level
+                    q.append(node.left)  # Add left child for next level
+                    q.append(node.right)  # Add right child for next level
+            
+            # Only add non-empty levels to result
             if level:
                 res.append(level)
         
         return res
-
-
-         
-        
