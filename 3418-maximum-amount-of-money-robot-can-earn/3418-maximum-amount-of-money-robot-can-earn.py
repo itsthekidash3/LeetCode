@@ -1,3 +1,5 @@
+# borrowed code from indean condor for better understanding
+
 class Solution:
     def maximumAmount(self, coins: List[List[int]]) -> int:
         # dp - DFS 
