@@ -5,6 +5,14 @@
 #         self.left = None
 #         self.right = None
 
+# Brief Solution Statement:
+# Serialize a binary tree using preorder DFS traversal (root → left → right). 
+# Convert each node value to string and use "N" for null nodes. Join with commas. 
+# Deserialize by splitting the string and reconstructing the tree in the same preorder 
+# sequence using a global index pointer. At each step, if current value is "N" return None, 
+# otherwise create a node and recursively build left then right subtrees. The preorder 
+# structure preserves the tree's shape.
+
 class Codec:
 
     def serialize(self, root):
@@ -46,7 +54,9 @@ class Codec:
         # Use global index to track current position in the value list
         
         vals = data.split(",")  # Split string back into list of values
-        self.i = 0  # Global pointer to current position in vals array
+        self.i = 0  # Global pointer/cursor to current position in vals array
+                    # Shared across all recursive calls to track which value to process next
+                    # Ensures we consume values sequentially without reprocessing
         
         def dfs():
             # Base case: "N" means null node
