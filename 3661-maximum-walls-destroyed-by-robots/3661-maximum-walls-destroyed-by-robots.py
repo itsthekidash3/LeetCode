@@ -36,6 +36,10 @@ class Solution:
         @cache
 
         # two binary search to get the no of walls in position
+        # index -> N -> of the robot
+        # boundary -> 2 things only
+        #       previous robot location 
+        #       previous robot location + 1
         def f(index,boundary):
             if index == N:
                 return 0
