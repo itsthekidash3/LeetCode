@@ -25,15 +25,15 @@ class Solution:
         N = len(robots)
         r = []
         for rx,rd in zip(robots,distance):
-            r.append((rx,rd))
+            r.append((rx,rd)) # (robot_position, bullet_distance)
         r.sort() # sorting the robots by position with the bullet distance
         sl = SortedList(walls) # sorting the walls
 
 
-        def c(left,right): # binary search?
-            lindex = sl.bisect_left(left)
-            rindex = sl.bisect_right(right)
-            return rindex - lindex
+        def c(left,right): # binary search : Count walls in range [left, right] using binary search
+            lindex = sl.bisect_left(left) # First wall >= left
+            rindex = sl.bisect_right(right) # First wall > right
+            return rindex - lindex # Number of walls in range
 
         @cache
 
@@ -65,8 +65,12 @@ class Solution:
             # we shot from x to x-d
 
             left = r[index][0] - r[index][1]
+            # Bullet can't go past boundary (area already covered by previous robot)
             if index - 1 >= 0:
-                left = max(left, boundary)
+                left = max(left, boundary) # Respect boundary to avoid double-counting
+
+            # Walls hit shooting left + recurse with updated boundary
+            # New boundary = current robot position + 1 (next robot shooting left stops here)
             
             best = max(best, f(index + 1, r[index][0] + 1) + c(left,r[index][0]))
 
