@@ -116,6 +116,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/itsthekidash3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itsthekidash3/LeetCode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/itsthekidash3/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -519,6 +520,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/itsthekidash3/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
