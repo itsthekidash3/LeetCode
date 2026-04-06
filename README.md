@@ -33,6 +33,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0739-daily-temperatures](https://github.com/itsthekidash3/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-car-fleet](https://github.com/itsthekidash3/LeetCode/tree/master/0853-car-fleet) |
+| [0874-walking-robot-simulation](https://github.com/itsthekidash3/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -92,6 +93,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0424-longest-repeating-character-replacement](https://github.com/itsthekidash3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/itsthekidash3/LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/itsthekidash3/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -525,6 +527,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/itsthekidash3/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/itsthekidash3/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
