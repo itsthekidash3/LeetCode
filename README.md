@@ -72,6 +72,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3643-flip-square-submatrix-vertically](https://github.com/itsthekidash3/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/itsthekidash3/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsthekidash3/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/itsthekidash3/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/itsthekidash3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -178,6 +179,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsthekidash3/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
