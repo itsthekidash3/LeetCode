@@ -46,3 +46,34 @@ class Solution:
                 ans = min(ans, dp[n][j][k])
         
         return ans
+
+
+    # ========== SPACE-OPTIMIZED APPROACH (2D DP) ==========
+    # def minimumDistance(self, word):
+    #     # Goal: Same problem, but optimize space from O(n × 26 × 26) to O(26)
+    #     # Key insight: Only need previous state, not entire history
+    #     # Track one "free" finger position in dp[j], other finger just typed previous char
+    #     
+    #     n = len(word)
+    #     dp = [0] * 26   # dp[j] = min cost with free finger at position j
+    #     ndp = [0] * 26  # Next state buffer
+    #     
+    #     # Process transitions character by character
+    #     for i in range(1, n):
+    #         p = ord(word[i - 1]) - ord('A')  # Previous character (just typed)
+    #         t = ord(word[i]) - ord('A')      # Current target character
+    #         
+    #         # Option 1: Use finger that just typed p to type t
+    #         # Free finger stays at position j
+    #         for j in range(26):
+    #             ndp[j] = dp[j] + self.cal(p, t)
+    #         
+    #         # Option 2: Use free finger at j to type t
+    #         # Finger that typed p becomes the new free finger
+    #         for j in range(26):
+    #             ndp[p] = min(ndp[p], dp[j] + self.cal(j, t))
+    #         
+    #         # Swap buffers (ndp becomes current state)
+    #         dp, ndp = ndp, dp
+    #     
+    #     return min(dp)  # Minimum across all free finger positions
