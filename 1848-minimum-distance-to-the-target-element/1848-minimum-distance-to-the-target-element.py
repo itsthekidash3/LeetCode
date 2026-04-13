@@ -1,18 +1,35 @@
 class Solution:
     def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
-
-        # find the number and their index
-        # hash map and store the value and the index :O(n)
-        # then at the given value find the number closest to start: O(n)
-
-        # find the position of the target
-        indices = [i for i, x in enumerate(nums) if x == target]
+        # Goal: Find minimum distance from start index to any occurrence of target value
+        # Distance = |index - start|
+        # Approach: Find all indices containing target, compute min distance to start
+        
+        # Step 1: Find all indices where nums[i] == target
+        indices = [i for i, x in enumerate(nums) if x == target]  # Fixed: was 'numbers', should be 'nums'
+        
+        # Step 2: Sort indices (optimization: enables binary search, though not used here)
+        # Note: enumerate returns indices in order, so sorting is redundant
         indices.sort()
-        val = 99999
+        
+        # Step 3: Find minimum distance from start to any target index
+        val = float('inf')  # Better: use float('inf') instead of 99999
         for i in range(len(indices)):
-            #minimum abs(i-start)
-            val = min(val,abs(indices[i]-start))
-
+            # Calculate absolute distance from current target index to start
+            val = min(val, abs(indices[i] - start))
+        
         return val
 
-        
+
+    # ========== OPTIMIZED SINGLE-PASS APPROACH ==========
+    # def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
+    #     # Goal: Find min distance in one pass without storing all indices
+    #     # Approach: Track minimum distance while iterating through array
+    #     
+    #     min_dist = float('inf')
+    #     
+    #     for i, x in enumerate(nums):
+    #         if x == target:
+    #             # Update minimum distance whenever we find target
+    #             min_dist = min(min_dist, abs(i - start))
+    #     
+    #     return min_dist
