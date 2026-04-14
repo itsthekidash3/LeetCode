@@ -3,6 +3,8 @@ class Solution:
         # Goal: Generate all possible subsets (power set) of nums
         # Approach: Backtracking with decision tree (include/exclude each element)
         # Time: O(2^n * n), Space: O(n) for recursion depth
+        # think about memory, and space complexity , get a working solution, make it right, make it fast
+        # know the tecqnique
         
         res = []  # Store all subsets
         subset = []  # Current subset being built 
