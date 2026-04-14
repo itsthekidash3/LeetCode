@@ -13,7 +13,7 @@ class Solution:
         
         # Step 2: Create max heap with task frequencies (negate for max heap)
         maxHeap = [-cnt for cnt in count.values()]
-        heapq.heapify(maxHeap)  # Fixed typo: was 'hapify'
+        heapq.heapify(maxHeap)  
         
         time = 0  # Track total time elapsed
         q = deque()  # Queue stores [remaining_count, available_time] for cooling tasks
@@ -32,6 +32,6 @@ class Solution:
             
             # Check if any task in queue has finished cooling down
             if q and q[0][1] == time:  # Fixed: should compare to time, not just check truthiness
-                heapq.heappush(maxHeap, q.popleft()[0])  # Fixed typo: was 'maxheap'
+                heapq.heappush(maxHeap, q.popleft()[0])  
         
-        return time  # Fixed: should return time, not 0
+        return time 
