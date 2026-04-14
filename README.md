@@ -53,6 +53,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/itsthekidash3/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -173,6 +174,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -236,6 +238,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/itsthekidash3/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/itsthekidash3/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/itsthekidash3/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/itsthekidash3/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
