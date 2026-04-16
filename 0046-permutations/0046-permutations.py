@@ -9,7 +9,7 @@ class Solution:
 
         # base case
         if len(nums) == 1:
-            return [nums.copy()] # return list of list
+            return [nums[:]] # return list of list
 
         for i in range(len(nums)):
             n = nums.pop(0) # pop the first index element
