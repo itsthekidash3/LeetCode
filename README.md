@@ -14,6 +14,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/itsthekidash3/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -638,6 +639,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/itsthekidash3/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/itsthekidash3/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
