@@ -20,6 +20,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/itsthekidash3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsthekidash3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsthekidash3/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -136,6 +137,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0020-valid-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itsthekidash3/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itsthekidash3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/itsthekidash3/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -329,6 +331,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -379,6 +382,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0036-valid-sudoku](https://github.com/itsthekidash3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -652,6 +656,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0040-combination-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/itsthekidash3/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/itsthekidash3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
