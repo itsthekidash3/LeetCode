@@ -135,6 +135,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsthekidash3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itsthekidash3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
@@ -254,6 +255,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthekidash3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -652,6 +654,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/itsthekidash3/LeetCode/tree/master/0046-permutations) |
