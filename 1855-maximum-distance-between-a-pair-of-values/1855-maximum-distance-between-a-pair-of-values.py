@@ -4,7 +4,7 @@ class Solution:
         # Approach: Two pointers - increment i only when A[i] > B[j]
         # Key insight: Both arrays are sorted, so we can greedily expand distance
         
-        i, j = 0, 0  
+        i, j = 0, 1 
         
         # Traverse B with pointer j, move i only when constraint violated
         while i < len(A) and j < len(B):
