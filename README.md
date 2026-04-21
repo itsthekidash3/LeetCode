@@ -142,6 +142,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0076-minimum-window-substring](https://github.com/itsthekidash3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itsthekidash3/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/itsthekidash3/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
@@ -261,6 +262,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthekidash3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -666,6 +668,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0078-subsets](https://github.com/itsthekidash3/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
