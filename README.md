@@ -38,6 +38,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0238-product-of-array-except-self](https://github.com/itsthekidash3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itsthekidash3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
@@ -284,6 +285,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthekidash3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -323,6 +325,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0002-add-two-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsthekidash3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
