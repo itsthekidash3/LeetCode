@@ -97,6 +97,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3546-equal-sum-grid-partition-i](https://github.com/itsthekidash3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/itsthekidash3/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/itsthekidash3/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -146,6 +147,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsthekidash3/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -348,6 +350,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -415,6 +418,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -601,6 +605,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
 | ------- |
