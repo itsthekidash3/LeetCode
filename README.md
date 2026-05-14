@@ -84,6 +84,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2615-sum-of-distances](https://github.com/itsthekidash3/LeetCode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsthekidash3/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itsthekidash3/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -147,6 +148,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2615-sum-of-distances](https://github.com/itsthekidash3/LeetCode/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -233,6 +235,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
