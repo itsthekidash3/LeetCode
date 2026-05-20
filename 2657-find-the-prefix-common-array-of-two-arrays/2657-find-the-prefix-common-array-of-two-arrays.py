@@ -1,10 +1,16 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        cnt, ans, used = 0, [], 0
-        for a, b in zip(A, B):
-            cnt += (used >> a) & 1
-            used |= 1 << a
-            cnt += (used >> b) & 1
-            used |= 1 << b
-            ans.append(cnt)
-        return ans
+        n = len(A)
+        result = [0] * n
+        count = [0] * (n + 1)
+        common = 0
+        
+        for i in range(n):
+            count[A[i]] += 1
+            if count[A[i]] == 2:
+                common += 1
+            count[B[i]] += 1
+            if count[B[i]] == 2:
+                common += 1
+            result[i] = common
+        return result
