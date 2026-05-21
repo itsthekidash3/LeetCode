@@ -96,6 +96,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/itsthekidash3/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itsthekidash3/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsthekidash3/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -159,6 +160,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -212,6 +214,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itsthekidash3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -580,6 +583,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/itsthekidash3/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsthekidash3/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
