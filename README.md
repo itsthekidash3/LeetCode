@@ -164,6 +164,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsthekidash3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3488-closest-equal-element-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -220,6 +221,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsthekidash3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itsthekidash3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
