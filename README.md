@@ -80,6 +80,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsthekidash3/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/itsthekidash3/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsthekidash3/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -254,6 +255,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/itsthekidash3/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsthekidash3/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -539,6 +541,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itsthekidash3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsthekidash3/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/itsthekidash3/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/itsthekidash3/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
