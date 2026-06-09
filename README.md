@@ -134,6 +134,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/itsthekidash3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +499,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3546-equal-sum-grid-partition-i](https://github.com/itsthekidash3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Matrix
 |  |
