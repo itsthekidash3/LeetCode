@@ -404,6 +404,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsthekidash3/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -430,6 +431,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itsthekidash3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsthekidash3/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -458,6 +460,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsthekidash3/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/itsthekidash3/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsthekidash3/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
