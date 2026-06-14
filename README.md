@@ -604,6 +604,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsthekidash3/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/itsthekidash3/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsthekidash3/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/itsthekidash3/LeetCode/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -626,6 +627,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0739-daily-temperatures](https://github.com/itsthekidash3/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/itsthekidash3/LeetCode/tree/master/0853-car-fleet) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/itsthekidash3/LeetCode/tree/master/2751-robot-collisions) |
@@ -758,6 +760,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0146-lru-cache](https://github.com/itsthekidash3/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/itsthekidash3/LeetCode/tree/master/0355-design-twitter) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
