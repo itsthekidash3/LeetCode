@@ -136,6 +136,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/itsthekidash3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/itsthekidash3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
@@ -244,6 +245,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsthekidash3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3838-weighted-word-mapping](https://github.com/itsthekidash3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/itsthekidash3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -782,6 +784,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itsthekidash3/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/itsthekidash3/LeetCode/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsthekidash3/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/itsthekidash3/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Tree
 |  |
 | ------- |
