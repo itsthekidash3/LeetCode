@@ -18,4 +18,4 @@ class Solution:
             prev = slow
             slow = slow.next
         prev.next = prev.next.next
-        return newHead.next    
+        return newHead.next   
