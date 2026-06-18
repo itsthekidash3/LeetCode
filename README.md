@@ -398,6 +398,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/itsthekidash3/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
