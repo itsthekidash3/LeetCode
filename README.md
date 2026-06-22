@@ -167,6 +167,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
 | [0874-walking-robot-simulation](https://github.com/itsthekidash3/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/itsthekidash3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/itsthekidash3/LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsthekidash3/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -216,6 +217,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0796-rotate-string](https://github.com/itsthekidash3/LeetCode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/itsthekidash3/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1189-maximum-number-of-balloons](https://github.com/itsthekidash3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/itsthekidash3/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -331,6 +333,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/itsthekidash3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/itsthekidash3/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
