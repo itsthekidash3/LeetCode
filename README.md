@@ -134,6 +134,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/itsthekidash3/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itsthekidash3/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsthekidash3/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -189,6 +190,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsthekidash3/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -303,6 +305,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1382-balance-a-binary-search-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsthekidash3/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -338,6 +341,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/itsthekidash3/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/itsthekidash3/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/itsthekidash3/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
@@ -523,6 +527,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3225-maximum-score-from-grid-operations](https://github.com/itsthekidash3/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/itsthekidash3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -882,10 +887,12 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/itsthekidash3/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
