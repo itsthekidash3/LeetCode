@@ -71,6 +71,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itsthekidash3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsthekidash3/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/itsthekidash3/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsthekidash3/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itsthekidash3/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsthekidash3/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/itsthekidash3/LeetCode/tree/master/1861-rotating-the-box) |
@@ -281,6 +282,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itsthekidash3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsthekidash3/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/itsthekidash3/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsthekidash3/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/itsthekidash3/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -603,6 +605,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itsthekidash3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsthekidash3/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsthekidash3/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsthekidash3/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/itsthekidash3/LeetCode/tree/master/2126-destroying-asteroids) |
