@@ -499,6 +499,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsthekidash3/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/itsthekidash3/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsthekidash3/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsthekidash3/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/itsthekidash3/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -521,6 +522,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsthekidash3/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -775,6 +777,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsthekidash3/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsthekidash3/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/itsthekidash3/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/itsthekidash3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -784,6 +787,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0133-clone-graph](https://github.com/itsthekidash3/LeetCode/tree/master/0133-clone-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/itsthekidash3/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsthekidash3/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
