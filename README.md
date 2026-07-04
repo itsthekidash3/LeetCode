@@ -51,6 +51,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/itsthekidash3/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1306-jump-game-iii) |
@@ -516,6 +517,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/itsthekidash3/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -564,6 +566,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
