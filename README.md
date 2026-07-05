@@ -54,6 +54,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/itsthekidash3/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/itsthekidash3/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/itsthekidash3/LeetCode/tree/master/1345-jump-game-iv) |
@@ -376,6 +377,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/itsthekidash3/LeetCode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -567,6 +569,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
