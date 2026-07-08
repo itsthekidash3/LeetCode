@@ -267,6 +267,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsthekidash3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3838-weighted-word-mapping](https://github.com/itsthekidash3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -453,6 +454,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsthekidash3/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
@@ -556,6 +558,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
