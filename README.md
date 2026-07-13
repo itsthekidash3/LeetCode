@@ -620,6 +620,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/itsthekidash3/LeetCode/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsthekidash3/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
