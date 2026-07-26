@@ -43,6 +43,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/itsthekidash3/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -298,6 +299,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0295-find-median-from-data-stream](https://github.com/itsthekidash3/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/itsthekidash3/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/itsthekidash3/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -451,6 +453,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsthekidash3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsthekidash3/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
