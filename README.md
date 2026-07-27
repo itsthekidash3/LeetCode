@@ -65,6 +65,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsthekidash3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -307,6 +308,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1331-rank-transform-of-an-array](https://github.com/itsthekidash3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/itsthekidash3/LeetCode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsthekidash3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsthekidash3/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itsthekidash3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsthekidash3/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -359,6 +361,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0703-kth-largest-element-in-a-stream](https://github.com/itsthekidash3/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/itsthekidash3/LeetCode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsthekidash3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
