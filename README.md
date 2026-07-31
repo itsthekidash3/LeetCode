@@ -204,6 +204,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsthekidash3/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsthekidash3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -271,6 +272,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/itsthekidash3/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsthekidash3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsthekidash3/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsthekidash3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -327,6 +329,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2784-check-if-array-is-good](https://github.com/itsthekidash3/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsthekidash3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -388,6 +391,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/itsthekidash3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/itsthekidash3/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/itsthekidash3/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsthekidash3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -684,6 +688,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/itsthekidash3/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/itsthekidash3/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsthekidash3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itsthekidash3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
