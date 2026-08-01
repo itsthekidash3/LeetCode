@@ -41,6 +41,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0239-sliding-window-maximum](https://github.com/itsthekidash3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/itsthekidash3/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/itsthekidash3/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -411,6 +412,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -463,6 +465,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0066-plus-one](https://github.com/itsthekidash3/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsthekidash3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -813,6 +816,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -977,6 +981,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0025-reverse-nodes-in-k-group](https://github.com/itsthekidash3/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/itsthekidash3/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
