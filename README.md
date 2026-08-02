@@ -51,6 +51,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0853-car-fleet](https://github.com/itsthekidash3/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/itsthekidash3/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/itsthekidash3/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
@@ -414,6 +415,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/itsthekidash3/LeetCode/tree/master/1340-jump-game-v) |
@@ -468,6 +470,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/itsthekidash3/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsthekidash3/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -817,6 +820,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
