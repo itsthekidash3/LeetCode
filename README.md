@@ -66,6 +66,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1345-jump-game-iv](https://github.com/itsthekidash3/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsthekidash3/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1406-stone-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/itsthekidash3/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsthekidash3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -419,6 +420,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1301-number-of-paths-with-max-score](https://github.com/itsthekidash3/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsthekidash3/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/itsthekidash3/LeetCode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/itsthekidash3/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/itsthekidash3/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -473,6 +475,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsthekidash3/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1406-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itsthekidash3/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -821,6 +824,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsthekidash3/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/itsthekidash3/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
