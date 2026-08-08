@@ -283,6 +283,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsthekidash3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itsthekidash3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -496,6 +497,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsthekidash3/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/itsthekidash3/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsthekidash3/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -709,6 +711,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/itsthekidash3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itsthekidash3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -843,6 +846,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsthekidash3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/itsthekidash3/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -1019,6 +1023,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/itsthekidash3/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
