@@ -314,6 +314,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3614-process-string-with-special-operations-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsthekidash3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itsthekidash3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -718,6 +719,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3546-equal-sum-grid-partition-i](https://github.com/itsthekidash3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsthekidash3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsthekidash3/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
@@ -783,6 +785,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itsthekidash3/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsthekidash3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsthekidash3/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
 |  |
