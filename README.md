@@ -974,6 +974,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0146-lru-cache](https://github.com/itsthekidash3/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/itsthekidash3/LeetCode/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/itsthekidash3/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
