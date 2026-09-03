@@ -180,6 +180,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -554,6 +555,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3783-mirror-distance-of-an-integer](https://github.com/itsthekidash3/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsthekidash3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
 |  |
 | ------- |
