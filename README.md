@@ -182,6 +182,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3875-construct-uniform-parity-array-i](https://github.com/itsthekidash3/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/itsthekidash3/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -671,6 +672,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3862-find-the-smallest-balanced-index](https://github.com/itsthekidash3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/itsthekidash3/LeetCode/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/itsthekidash3/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
