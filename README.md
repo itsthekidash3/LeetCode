@@ -262,6 +262,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0049-group-anagrams](https://github.com/itsthekidash3/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itsthekidash3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/itsthekidash3/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/itsthekidash3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -445,6 +446,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsthekidash3/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/itsthekidash3/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsthekidash3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsthekidash3/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/itsthekidash3/LeetCode/tree/master/0131-palindrome-partitioning) |
