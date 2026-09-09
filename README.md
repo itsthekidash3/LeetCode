@@ -40,6 +40,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0238-product-of-array-except-self](https://github.com/itsthekidash3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itsthekidash3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/itsthekidash3/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0286-walls-and-gates](https://github.com/itsthekidash3/LeetCode/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/itsthekidash3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/itsthekidash3/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/itsthekidash3/LeetCode/tree/master/0486-predict-the-winner) |
@@ -631,6 +632,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0133-clone-graph](https://github.com/itsthekidash3/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/itsthekidash3/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/itsthekidash3/LeetCode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itsthekidash3/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -690,6 +692,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0079-word-search](https://github.com/itsthekidash3/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/itsthekidash3/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/itsthekidash3/LeetCode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/itsthekidash3/LeetCode/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/itsthekidash3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/itsthekidash3/LeetCode/tree/master/0994-rotting-oranges) |
