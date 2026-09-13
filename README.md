@@ -143,6 +143,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/itsthekidash3/LeetCode/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsthekidash3/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itsthekidash3/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsthekidash3/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -374,6 +375,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsthekidash3/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/itsthekidash3/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsthekidash3/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsthekidash3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -486,6 +488,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsthekidash3/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsthekidash3/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsthekidash3/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itsthekidash3/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -887,6 +890,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsthekidash3/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itsthekidash3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsthekidash3/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/itsthekidash3/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
