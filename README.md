@@ -286,6 +286,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0657-robot-return-to-origin](https://github.com/itsthekidash3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/itsthekidash3/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/itsthekidash3/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/itsthekidash3/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/itsthekidash3/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/itsthekidash3/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -856,6 +857,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [0678-valid-parenthesis-string](https://github.com/itsthekidash3/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/itsthekidash3/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/itsthekidash3/LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsthekidash3/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/itsthekidash3/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsthekidash3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1209,4 +1211,5 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/itsthekidash3/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/itsthekidash3/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
