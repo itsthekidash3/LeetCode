@@ -161,6 +161,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/itsthekidash3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsthekidash3/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/itsthekidash3/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsthekidash3/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -258,6 +259,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3488-closest-equal-element-queries](https://github.com/itsthekidash3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsthekidash3/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsthekidash3/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsthekidash3/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsthekidash3/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/itsthekidash3/LeetCode/tree/master/3678-design-task-manager) |
@@ -401,6 +403,7 @@ My leetcode journey.I am posting the leetcode solutions i have solved. And also 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsthekidash3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsthekidash3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsthekidash3/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/itsthekidash3/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/itsthekidash3/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsthekidash3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
